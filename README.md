@@ -37,4 +37,10 @@ origin  https://github.com/GitHu-Shu/Pushfromlocal.git (push)
         - Git Branch *master branch is visible rename it 
         - git branch -M main (changed master branch name to main)
         - git push -u origin main (To push code on remote repo created )
-        - Refresh repo 
+        - Refresh repo on Github
+
+- How to add Branches
+        - Git checkout -b "branch name" (to create branch)
+        - Git branch (to check branchs)
+        - Git checkout -d "exsiting branch name" (to delete)
+        -
